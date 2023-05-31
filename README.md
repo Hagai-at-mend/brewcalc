@@ -7,7 +7,7 @@ A modern (ES6) functional JavaScript library for brewing calculations.
  * [JSFiddle sample](https://jsfiddle.net/krutilin/nn7sdekg/)
 
 🚀 Installation
-------------
+------------dfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfds
 There are two ways to use **brewcalc** - client-side in a web browser or server-side using node.js.
 
 ### Browser
